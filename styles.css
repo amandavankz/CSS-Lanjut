@@ -1,0 +1,144 @@
+body {
+  margin: 0;
+  text-align: center;
+}
+hr {
+  border-color: #dcd6f7;
+  border-style:none;
+  border-top-color: #dcd6f7;
+  border-top-style: dotted;
+  border-width: 7px;
+  width: 15%
+}
+
+.header {
+  float: right;
+  margin: 20px;
+  color: #424874;
+  margin-right: 40px;
+  font-family:'Neucha', cursive;
+  width: 1350px;
+}
+.header ul {
+  padding-left: 900px;
+}
+.header ul li {
+  display: inline;
+  margin: 2px;
+}
+.header img {
+  float: left;
+  border-style: dotted;
+  border-width: 7px;
+  margin: 0 auto;
+  border-radius: 50%;
+}
+h1   {
+  margin: 60px auto 0 auto;
+  font-size: 562.5%;
+  font-family: 'Amatic SC', cursive;
+  color: white;
+}
+h2  {
+  font-size: 437%;
+  font-family: 'Amatic SC', cursive;
+  color: #424874;
+}
+h3  {
+  font-size: 281%;
+  font-family: 'Amatic SC', cursive;
+  color: #424874;
+}
+p {
+  font-size:137%;
+  font-family: 'Neucha', cursive;
+  color: #a6b1e1
+}
+#desc {
+      margin-left: 500px;
+      margin-right: 500px
+}
+#top-image {
+  margin: 0 auto;
+}
+.desc img {
+  border-style: dotted;
+  border-width: 7px;
+  border-color: #424874;
+}
+.brd {
+  font-size: 281.25%;
+  color: white;
+}
+.circle {
+  display: block;
+  margin: 0 auto;
+  border-radius: 50%;
+  width: 25%;
+  float: left;
+  margin-right: 30px;
+  border-style: dotted;
+  border-width: 7px;
+  border-color: #424874;
+}
+.circle2 {
+  border-radius: 50%;
+  width: 25%;
+  float: right;
+  margin-left: : 500px;
+  border-style: dotted;
+  border-width: 7px;
+  border-color: #424874;
+}
+
+.top-container {
+  background-color:#dcd6f7;
+  padding-top: 100px;
+}
+
+.mid-container {
+  background-color: #f4eeff;
+  padding-top: 50px;
+  padding-bottom: 50px;
+}
+.mid-container img {
+  border-radius: 50%;
+}
+.skill-row {
+  width: 75%;
+  margin: 50px auto 100px 200px;
+  text-align: left;
+  line-height: 2;
+}
+.skill-row2 {
+  margin: 50px 200px 100px 200px;
+  text-align: left;
+  line-height: 2;
+}
+.bot-container {
+  background-color: #dcd6f7;
+  padding-top: 50px;
+  padding-bottom: 25px;
+
+}
+.bot-container a {
+  color: #424874;
+  font-family:'Neucha', cursive;
+}
+.bawah {
+  float: center;
+  margin: 20px;
+  color: #424874;
+  margin-right: 40px;
+  font-family:'Neucha', cursive;
+}
+.bawah ul li {
+display: inline;
+margin: 2px;
+}
+
+.lower {
+  background-color: white;
+  padding-top: 75px;
+  padding-bottom: 25px;
+}
